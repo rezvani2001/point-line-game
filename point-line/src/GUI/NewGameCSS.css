@@ -1,0 +1,22 @@
+.root{
+    -fx-background-color: #5fdaff;
+    -fx-font-size: 12;
+    -fx-border-color: red;
+    -fx-font-style: italic;
+}
+
+
+#backButton {
+    -fx-font-style: italic;
+    -fx-font-size: 20;
+    -fx-background-color: #9fdfef;
+    -fx-border-color: red;
+}
+
+
+#nextButton{
+    -fx-font-style: italic;
+    -fx-font-size: 20;
+    -fx-background-color: #9fdfef;
+    -fx-border-color: red;
+}

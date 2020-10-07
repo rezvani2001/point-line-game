@@ -1,0 +1,17 @@
+.root{
+    -fx-background-color: #5fdaff;
+    -fx-font-size: 12;
+    -fx-border-color: red;
+    -fx-font-style: italic;
+}
+
+#newGame{
+    -fx-font-style: italic;
+    -fx-font-size: 20;
+}
+
+
+#exitButton {
+    -fx-font-style: italic;
+    -fx-font-size: 20;
+}

@@ -1,0 +1,21 @@
+#end{
+    -fx-background-color: #aae32f;
+    -fx-font-size: 13;
+}
+
+#backButton{
+    -fx-background-color: #aae32f;
+    -fx-font-size: 13;
+}
+
+#box{
+    -fx-background-color: cadetblue;
+    -fx-border-color: crimson;
+}
+
+
+
+.root{
+    -fx-background-color: #d5f3f7;
+    -fx-border-color: coral;
+}
